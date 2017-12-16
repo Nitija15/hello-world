@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans,
 
-This is to learn Git Hub
+Hubot here, I like Node.js and coffeeScript ( thats what i am made off
